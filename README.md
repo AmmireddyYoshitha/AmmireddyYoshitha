@@ -52,14 +52,14 @@ Feel free to reach out if you'd like to collaborate or just chat about tech and 
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7buirYcmV5nSwIRW/giphy.gif" alt="Excited GIF" width="300"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm56c3R3a2pxbTZreHZoaDlia3RycGNxbXVwNXVmMmQ1OHRqMXRzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ew9DkhHnvxhONq7hUx/giphy.webp" alt="Excited GIF" width="300"/>
 </div>
 
 ---
 
 ## GitHub Stats 📊
 
-[![Y's GitHub stats](https://github-readme-stats.vercel.app/api?username=leelaramakrishna&show_icons=true&theme=dark)](https://github.com/leelaramakrishna)
+[![Y's GitHub stats]()
 
 ## Top Languages 🔝
 
