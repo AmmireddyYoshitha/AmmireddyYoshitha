@@ -52,7 +52,7 @@ Feel free to reach out if you'd like to collaborate or just chat about tech and 
 ---
 
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm56c3R3a2pxbTZreHZoaDlia3RycGNxbXVwNXVmMmQ1OHRqMXRzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ew9DkhHnvxhONq7hUx/giphy.webp" alt="Excited GIF" width="300"/>
+  <img src="https://media.giphy.com/media/eurFuCy8b1t6mwYtfo/giphy.gif?cid=ecf05e47cvqhne98e6auqfrd9erl8ym0jln07bpqbmmoygw5&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Excited GIF" width="300"/>
 </div>
 
 ---
